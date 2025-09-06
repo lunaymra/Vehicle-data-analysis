@@ -1,9 +1,7 @@
-## 📊 Visualizations
-## ✅ Key Insights
-## ⚙️ Installation
-## 📌 Usage
-## 📝 Suggestions for Improvement
-## 👤 Author
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 # Vehicle Data Analysis
 
 This project explores a dataset of vehicles using **Python** and **data visualization** (with pandas, seaborn, and matplotlib).
