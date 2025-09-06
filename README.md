@@ -1,3 +1,9 @@
+## 📊 Visualizations
+## ✅ Key Insights
+## ⚙️ Installation
+## 📌 Usage
+## 📝 Suggestions for Improvement
+## 👤 Author
 # Vehicle Data Analysis
 
 This project explores a dataset of vehicles using **Python** and **data visualization** (with pandas, seaborn, and matplotlib).
