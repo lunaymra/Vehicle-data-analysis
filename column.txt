@@ -1,0 +1,24 @@
+1. Active = permit active or not 
+2. Vehicle licence Number = FHV Vehicle licence Number
+3. Name = owner Name
+4. licence type = TLC licence Type 
+5. Expiration Data = Expiration Date
+6. Permit licence Number = permit licence Number
+7. DMV licence plate Number = DMV licence plate Number 
+8. Vehicle VIN Number = Vehicle VIN Number 
+9. Wheelchair Accessible = Wheelchair Accessible Indicator 
+10. Certification Date = Certification Date 
+11. Hack up Date = Hack up Date
+12. Vehicle Year = Vehicle Year 
+13. Base Number = Base Number
+14. Base Name = Base Name 
+15. Base type = Base type
+16. VEH = hybrid vehicle Indicator
+17. Base Telephone Number = Base Telephone Number Base Telephone Number
+18. Website = Base Website
+19. Reason = reason code  A,B,C or G
+20. Order Date = Date suspension Ordered
+21. Last Date Updated = last date Updated
+22. last time Updated = last time updated 
+
+
